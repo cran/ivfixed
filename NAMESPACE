@@ -1,0 +1,4 @@
+S3method(ivFixed,formula)
+S3method(summary,ivFixed)
+export(ivFixed)
+import(Formula)
